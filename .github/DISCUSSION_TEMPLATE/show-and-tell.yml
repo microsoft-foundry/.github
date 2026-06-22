@@ -1,9 +1,9 @@
-title: "<Share your project with the community that is built using Azure AI Foundry!>"
+title: "<Share your project with the community that is built using Microsoft Foundry!>"
 body:
   - type: markdown
     attributes: 
       value: |
-        Show and Tell: The place for you to 'show off' what you have created using Azure AI Foundry and inspire other developers in the community to build upon your great work!
+        Show and Tell: The place for you to 'show off' what you have created using Microsoft Foundry and inspire other developers in the community to build upon your great work!
   - type: markdown
     attributes:
      value: |
